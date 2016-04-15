@@ -6,7 +6,7 @@ var bookArr= require('./bookSyllables.js');
 var haikuArr; 
 
 if(process.argv[2]==='book'){
-	console.log(" Haiku Made of Word In The Magicians: ");
+	console.log(" Haiku Made of Words In The Magicians: ");
 	haikuArr= bookArr; 
 }
 else {
